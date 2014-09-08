@@ -741,4 +741,3 @@ def dumps(obj):
     '''
     encoder = ArffEncoder()
     return encoder.encode(obj)
-# =============================================================================
